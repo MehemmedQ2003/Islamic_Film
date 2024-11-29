@@ -1,0 +1,13 @@
+{
+  "movies": [
+    {
+      "id": "f606",
+      "title": "The Message",
+      "genre": "historical",
+      "description": "ABout Prophet Muhammad(s.a.s)",
+      "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p47209_p_v11_af.jpg",
+      "releaseYear": "1982",
+      "director": "Mustafa Akkad"
+    }
+  ]
+}
